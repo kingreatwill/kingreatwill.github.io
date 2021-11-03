@@ -1,5 +1,5 @@
 ## Welcome
-Github:[kingreatwill](http://github.com/kingreatwill)
+Github:[kingreatwill](https://github.com/kingreatwill)
 
 个人站点:[wcoder.com](http://wcoder.com/)
 
